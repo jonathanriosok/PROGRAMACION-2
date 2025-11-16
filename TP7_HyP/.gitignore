@@ -1,0 +1,12 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nball/
+nbdist/
+.nb-gradle/
+
+# Java
+*.class
+*.log
